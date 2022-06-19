@@ -9,7 +9,6 @@ logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
 
-
 start_endpoint = "https://wnk07eo5oc.execute-api.eu-central-1.amazonaws.com/dev/v1/beekeepers"
 
 
